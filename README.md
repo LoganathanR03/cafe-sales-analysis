@@ -85,7 +85,7 @@ The goal is to clean the dataset, perform exploratory data analysis (EDA), and g
 - Dashboard combining all major plots
 
 
-(Include a screenshot of your dashboard here)
+![Cafe Sales Data Analysis Dashboard](Subplots.png)
 
 
 
@@ -114,6 +114,7 @@ Feel free to fork the repo and submit pull requests.
 📧 Contact
 
 👤 Loganathan R 
+
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LoganathanR1210-blue?logo=linkedin)](https://www.linkedin.com/in/loganathanr1210)
 
 
