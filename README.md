@@ -10,15 +10,15 @@ The goal is to clean the dataset, perform exploratory data analysis (EDA), and g
 
 ## 🎯 Objectives
 
-Explore dataset structure and identify issues
+- Explore dataset structure and identify issues
 
-Perform data cleaning (handling nulls, duplicates, and type conversions)
+- Perform data cleaning (handling nulls, duplicates, and type conversions)
 
-Engineer new features for better analysis
+- Engineer new features for better analysis
 
-Generate insights on sales trends
+- Generate insights on sales trends
 
-Visualize findings with Matplotlib & Seaborn
+- Visualize findings with Matplotlib & Seaborn
 
 
 
@@ -38,15 +38,15 @@ Visualize findings with Matplotlib & Seaborn
 
 # 🧹 Data Cleaning Steps
 
-Checked and handled missing values (filled with mode/mean where necessary)
+- Checked and handled missing values (filled with mode/mean where necessary)
 
-Removed unnecessary nulls and recalculated Total Spent as Quantity × Price Per Unit
+- Removed unnecessary nulls and recalculated Total Spent as Quantity × Price Per Unit
 
-Converted datatypes (numeric and datetime formats)
+- Converted datatypes (numeric and datetime formats)
 
-Verified for duplicates and removed them if present
+- Verified for duplicates and removed them if present
 
-Created new columns → Year, Month, Weekday
+- Created new columns → Year, Month, Weekday
 
 
 
@@ -88,37 +88,16 @@ Created new columns → Year, Month, Weekday
 (Include a screenshot of your dashboard here)
 
 
----
-
-🚀 How to Run the Project
-
-1. Clone this repository:
-
-git clone https://github.com/your-username/cafe-sales-analysis.git
-cd cafe-sales-analysis
-
-
-2. Install dependencies:
-
-pip install -r requirements.txt
-
-
-3. Run the Jupyter Notebook:
-
-jupyter notebook notebooks/DirtyCafeSales_DataCleaning.ipynb
-
-
-
 
 ---
 
 📌 Future Improvements
 
-Build an interactive dashboard with Plotly / Streamlit
+- Build an interactive dashboard with Plotly / Streamlit
 
-Add predictive analytics (forecast sales trends)
+- Add predictive analytics (forecast sales trends)
 
-Automate cleaning pipeline with Python scripts
+- Automate cleaning pipeline with Python scripts
 
 
 
@@ -135,8 +114,7 @@ Feel free to fork the repo and submit pull requests.
 📧 Contact
 
 👤 Loganathan R 
-🔗 LinkedIn
-📂 GitHub
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LoganathanR1210-blue?logo=linkedin)](https://www.linkedin.com/in/loganathanr1210)
 
 
 ---
