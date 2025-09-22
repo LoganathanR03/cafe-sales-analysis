@@ -36,24 +36,6 @@ Visualize findings with Matplotlib & Seaborn
 
 ---
 
-## 📂 Project Structure
-
-Cafe-Sales-Analysis/
-│
-├── data/
-│   └── dirty_cafe_sales1.csv        # Raw dataset
-│
-├── notebooks/
-│   └── DirtyCafeSales_DataCleaning.ipynb   # Jupyter Notebook with analysis
-│
-├── images/
-│   └── dashboard.png                # Key plots/visualizations
-│
-├── README.md                        # Project documentation
-
-
----
-
 # 🧹 Data Cleaning Steps
 
 Checked and handled missing values (filled with mode/mean where necessary)
